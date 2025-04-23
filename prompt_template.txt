@@ -1,0 +1,14 @@
+Berikut ini adalah data pasien yang perlu dianalisis:
+
+Anamnesis:
+{anamnesis}
+
+Pemeriksaan Fisik:
+{pemeriksaan}
+
+Tolong berikan:
+1. Diagnosis banding utama dan alasan klinisnya.
+2. Tatalaksana awal yang disarankan (termasuk edukasi jika perlu).
+3. Pemeriksaan penunjang yang relevan untuk mengonfirmasi diagnosis.
+
+Berikan dalam format poin-poin yang jelas dan mudah dipahami oleh dokter umum.
